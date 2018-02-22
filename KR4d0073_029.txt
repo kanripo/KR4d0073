@@ -6,7 +6,11 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 29
 #+PROPERTY: FILE SB04n0482-029臨川先生文集-卷第二十九.
+
+# SB1_0930-002.png
+# page missing
 <pb:KR4d0073_SBCK_029-1a>¶
+# SB1_0930-003.png
 　　　　傳神自讃¶
 　　　　定林院昭文齋¶
 　　　　經局感言¶
